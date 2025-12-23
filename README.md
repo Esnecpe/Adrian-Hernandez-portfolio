@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student @ California State University, Fullerton  
 🔐 Minors in Cybersecurity & Mathematics  
-💻 Aspiring Software Engineer | Cybersecurity | Systems & Algorithms  
+💻 Aspiring Data Scientist/Analyst | Cybersecurity | Systems & Algorithms  
 
 ---
 
@@ -55,3 +55,4 @@ Data Structures & Algorithms, Operating Systems, Computer Organization & Assembl
 ---
 
 ⭐ *Always open to meaningful conversations, learning opportunities, and technical challenges.*
+
