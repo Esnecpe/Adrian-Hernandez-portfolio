@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I’m a motivated Computer Science student with a strong foundation in software development, algorithms, operating systems, and cybersecurity. I enjoy building practical, efficient solutions while deeply understanding how systems work under the hood — from low-level concepts to full applications.
+I’m a motivated Computer Science student with a strong foundation in data science, software development, algorithms, operating systems, and cybersecurity. I enjoy building practical, efficient solutions while deeply understanding how systems work under the hood — from low-level concepts to full applications.
 
 Alongside my academic background, I bring real-world experience that sharpened my communication, problem-solving, and teamwork skills. I’m highly adaptable, detail-oriented, and comfortable working in fast-paced, collaborative environments.
 
