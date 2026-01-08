@@ -35,7 +35,7 @@
     --line-height-small: 1.2;
 
     /* ===== NEW THEME COLORS (Teal) ===== */
-    --black: #0b3d3a;          /* main background teal (was #000) */
+    --blackteal: #0b3d3a;          /* main background teal (was #000) */
     --pink: #ff3258;           /* keep your accent (works great on teal) */
     --white: #f8fafc;          /* heading + strong text (soft white) */
     --white-1: #e6fffb;        /* normal paragraph text (minty white) */
